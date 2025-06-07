@@ -34,16 +34,7 @@
 
 <h2>Overview📌</h2>
 <p>This repository contains my project on a Travel Website✈️ using HTML, CSS and JavaScript. It features a landing page for a travel tour company website. Finding the perfect travel destination can be a challenge. This project aims to streamline that process🚤. We welcome all contributions to make this a fantastic resource for travelers. Jump in and contribute to this grand project! Read the guidelines📚 and get started building!</p>
-
-<h2>Live Demo</h2>
-
-Check out the live project [here](https://apu52.github.io/Travel_Website/).
-
-<p align="center">
-  <img src="https://github.com/avanimathur/Travel_Website/assets/151984867/1024d506-92c6-4b35-a4ab-2d4eaca78199" alt="Live Demo">
-</p>
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## Features🌟
 
@@ -87,110 +78,6 @@ Check out the live project [here](https://apu52.github.io/Travel_Website/).
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2>Open-Source-Programmes⭐</h2>
-
- ### This project is now OFFICIALLY accepted for
-
-![image](https://github.com/user-attachments/assets/81a0a103-8946-4c3c-a393-b965438b5549)
-
-![image](https://github.com/user-attachments/assets/f6cb8621-38e0-48bd-a20d-5a406692d4af)
-
-
-### This project was part of following Open Source Programs
-
-![image](https://github.com/user-attachments/assets/4aa69dee-1d15-4d29-b5c8-f42613a925e9)
-
-
-
-
-
- <div align="center">
-  <img src="https://github.com/user-attachments/assets/ee5c5ce7-b244-4e10-a91f-068f17a33609" alt="GSSOC" width="80%">
-</div>
- 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/05ad17cd-64fe-4993-adfc-78c10071b688" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5c3ca05d-0fac-43cc-ada6-0453be9ca0e2" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/50649a4b-669d-4d32-b771-200da207d853" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://github.com/apu52/METAVERSE/assets/114172928/e79eb6de-81b1-4ffb-b6ed-f018bb977e88" alt="GSSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="img/VSOC new.png" alt="VSOC" width="80%">
-</div>
-
-<div align="center">
-  <img src="img/JWOC.png" alt="JWOC" width="50%">
-</div>
-
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h2>Getting Started💥</h2>
-
-<h3>Local Installation video</h3>
-
-[video](https://drive.google.com/file/d/1LsBudIUtZLDMSlmBDdOfT001QRqGBSbN/view?usp=sharing)
-
-
-## How to make a Pull Request?
-
-**1.** Start by forking the [**Travel_Website**](https://github.com/apu52/Travel_Website) repository. Click on the <a href="https://github.com/apu52/Travel_Website/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
-
-**2.** Clone your forked repository:
-
-```bash
-git clone https://github.com/<your-github-username>/Travel_Website
-```
-
-**3.** Navigate to the new project directory:
-
-```bash
-cd Travel_Website
-```
-
-**4.** Set upstream command:
-
-```bash
-git remote add upstream https://github.com/apu52/Travel_Website
-```
-
-**5.** Create a new branch:
-
-```bash
-git checkout -b YourBranchName
-```
-
-<i>or</i>
-
-```bash
-git branch YourBranchName
-git switch YourBranchName
-```
-
-**6.** Sync your fork or local repository with the origin repository:
-
-- In your forked repository click on `Fetch upstream`.
-- Click `Fetch and merge`.
-
-### Alternatively, Git CLI way to Sync forked repository with origin repository:
-
-```bash
-git fetch upstream
-```
-
-```bash
-git merge upstream/main
-```
 
 ### [Github Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
 
@@ -224,39 +111,7 @@ git push origin YourBranchName
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2>Contributing Guidelines📑</h2>
-
-To learn about our development process, how to propose bug fixes and improvements of our project please read our [Contributing Guidelines.](https://github.com/apu52/Travel_Website/blob/main/CONTRIBUTING.md)
-
-
-<h2>Code Of Conduct📑</h2>
-
-This project and everyone participating in it are governed by the [Code of Conduct](https://github.com/apu52/Travel_Website/blob/main/Code_of_conduct.md). By participating, you are expected to uphold this code.
-
-</br>
-<p align = "center">
-Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repository.
-</p>
-
-<div align="center">
-
-<div align="center">
-   
-<!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-   
-## Project Mentor
-
-<table>
-<tr>
-   
-<td align="center"><a href="https://github.com/Ayushmaan06"><img src="img/Ayushman.jpg" width=130px height=130px /></a></br> <h4 style="color:red;">Ayushmaan Singh</h4>
- <a href="https://www.linkedin.com/in/ayushmaan03/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
-</td>
-   
-<td align="center"><a href="https://github.com/KrishnenduDG"><img src="img/krishnendu DG.png" width=130px height=130px /></a></br> <h4 style="color:red;">Krishnendu Dasgupta</h4>
- <a href="https://www.linkedin.com/in/krishnendu-dasgupta-450391186/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
-</td>
+<
 
 <td align="center"><a href="https://github.com/itsekta"><img src="img/Ekta.jfif" width=130px height=130px /></a></br> <h4 style="color:red;">Ekta Chaudhary</h4>
  <a href="https://www.linkedin.com/in/ekta-software-engineer/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
