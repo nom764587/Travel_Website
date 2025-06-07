@@ -20,7 +20,7 @@
  <h2>Hi there👋, Enjoy the World of Open source contribution </h2>
 
 
-<p>Hello Coders!!👨‍💻<br> I am Arpan Chowdhury, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
+<p>Hello Coders!!👨‍💻<br> I Om Narayan Pandey, an aspiring Web developer🤖. Here is the project on front-end Web Development.</p>
 
 
 
@@ -29,19 +29,7 @@
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h2>Table of Contents🧾</h2>
 
-- [Overview📌](#overview)
-- [Features🌟](#features)
-- [Technology Used🚀](#technology-used)
-- [Open-Source-Programmes⭐](#open-source-programmes)
-- [Getting Started💥](#getting-started)
-- [Contributing Guidelines📑](#contributing-guidelines)
-- [Code Of Conduct📑](#code-of-conduct)
-- [Project Admin⚡](#project-admin)
-- [Contributing is fun🧡](#contributing-is-fun)
-<br>
-<!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h2>Overview📌</h2>
